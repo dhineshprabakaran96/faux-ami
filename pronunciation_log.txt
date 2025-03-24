@@ -1,0 +1,2 @@
+User Audio: /Users/dprabak7/Documents/Code/faux-ami/audio-samples/French/Blessé.mp3, DTW Distance: 25894.088602532163
+User Audio: /Users/dprabak7/Documents/Code/faux-ami/audio-samples/French/Blessé.mp3, DTW Distance: 25894.088602532163
